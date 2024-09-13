@@ -14,13 +14,25 @@ chainlink
 dogecoin
 shiba inu
 bitcoincash
+Arbitrum
+Polygon
+
+CoinMarketCap
+PayPal
+decentralized
+DefiLlama
+Web3
+Tether
+Circle
 
 altcoin
 cryptocurrency
+cryptocurrencies
 blockchain
 marketcap
 
 crypto
+cryptos
 cryptonews
 defi
 yield
@@ -28,6 +40,8 @@ staking
 liquidity
 algorithmic
 stablecoin
+
+stablecoins
 
 inflation
 ETF

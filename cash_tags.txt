@@ -26,10 +26,13 @@ MCO
 ARDR
 PAY
 XVG
-GAME
 OMNI
 MAID
 PTC
+USDT
+USDC
+PYUSD
+WLFI
 
 btcusdt
 ethusd
