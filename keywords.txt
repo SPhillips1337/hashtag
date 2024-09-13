@@ -42,6 +42,11 @@ algorithmic
 stablecoin
 
 stablecoins
+FederalReserve
+stockmarket
+WallStreet
+FED
+Gold
 
 inflation
 ETF
