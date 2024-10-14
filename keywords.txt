@@ -24,12 +24,14 @@ DefiLlama
 Web3
 Tether
 Circle
+BlackRock
 
 altcoin
 cryptocurrency
 cryptocurrencies
 blockchain
 marketcap
+ether 
 
 crypto
 cryptos
@@ -42,6 +44,7 @@ algorithmic
 stablecoin
 
 stablecoins
+memecoins
 FederalReserve
 stockmarket
 WallStreet

@@ -33,6 +33,7 @@ USDT
 USDC
 PYUSD
 WLFI
+BUIDL
 
 btcusdt
 ethusd

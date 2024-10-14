@@ -85,7 +85,7 @@ if (isset($_POST['urlInput'])) {
     <h2>Drop Text Here:</h2>
     <form method="POST">
     <div class="drop-zone">
-        <textarea id="textInput" name="textInput" cols="80" rows="10" style="width:100%" placeholder="Drag and drop text here or paste it in."><?php echo $processedText; ?></textarea>
+        <textarea id="textInput" name="textInput" cols="80" rows="10" style="width:100%;height:80vh;" placeholder="Drag and drop text here or paste it in."><?php echo $processedText; ?></textarea>
     </div>
     <div class="form-group">
         <label for="urlInput">Enter a URL:</label>
