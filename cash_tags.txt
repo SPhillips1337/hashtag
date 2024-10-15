@@ -34,6 +34,11 @@ USDC
 PYUSD
 WLFI
 BUIDL
+WLD
+ARB
+EIGEN
+AXS
+WBTC
 
 btcusdt
 ethusd

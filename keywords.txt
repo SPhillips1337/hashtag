@@ -25,6 +25,8 @@ Web3
 Tether
 Circle
 BlackRock
+Aave
+Compound
 
 altcoin
 cryptocurrency
@@ -32,6 +34,11 @@ cryptocurrencies
 blockchain
 marketcap
 ether 
+Vitalik
+Buterin
+Worldcoin
+Eigenlayer
+Trump
 
 crypto
 cryptos
